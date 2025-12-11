@@ -1,5 +1,4 @@
 
-````markdown
 # 📌 SQL Practice: ORDER BY Queries
 
 This repository contains an SQL script that demonstrates how to use the **ORDER BY** clause in MySQL.  
@@ -7,11 +6,7 @@ It shows how to sort query results in ascending or descending order, and how to 
 
 ---
 
-## 📂 File Included
-
-| File Name | Description |
-|----------|-------------|
-| **Q5_Order_BY.sql** | SQL script with examples of ascending, descending, and multi-column sorting |
+File name : Order_BY.sql** | SQL script with examples of ascending, descending, and multi-column sorting |
 
 ---
 
